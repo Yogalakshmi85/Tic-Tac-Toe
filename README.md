@@ -16,18 +16,17 @@
 ![Screenshot 2025-01-15 162154](https://github.com/user-attachments/assets/d67728de-c1e2-4655-97c0-650568506e9f)
 
 ## How to Play 🚀
-- **Run the Game:**
+### Run the Game:
 Compile and run the Tictactoe.java file in your Java IDE or terminal.
 
-- **Take Turns:**
+### Take Turns:
 
 - Players alternate clicking on an empty cell.
 - Player X uses "X" (red), and Player O uses "O" (blue).
-- **Win Conditions:**
+### Win Conditions:
 
 - Form a horizontal, vertical, or diagonal line to win the game.
 - The winning cells will be highlighted in orange.
-- **Restart:**
-
+### Restart:
 - Press the Spacebar to clear the board and start a new game.
 
